@@ -5,9 +5,13 @@
 ## Functional computation with Python
 
 ## Clojure
+[Clojure](https://clojure.org/index) - the official Clojure website with documentation
+
 [4clojure](http://www.4clojure.com/) - set of Clojure exercises with given level of difficulty
 
 [Clojure Koans](http://clojurescriptkoans.com) - a series of Clojure puzzles with increasing difficulty wrapped in Zen-like terms
+
+ [Clojure Bridge](https://clojurebridge.org/community-docs/index.html) - tutorials and lecture materials about Clojure
 
 ## General programming
 [HackerRank](https://www.hackerrank.com/) - site full of exercises and challenges to improve your coding
