@@ -1,5 +1,10 @@
 # Interesting sources related to the class topic
 
+## Git
+[Learn Git branching](https://learngitbranching.js.org/) - interactive graphical interface for learning git basics
+
+[Git Tutorial from SW Carpentry](http://swcarpentry.github.io/git-novice/)
+
 ## Lambda calculus
 [Learn Lambda calculus in Y mins](https://learnxinyminutes.com/docs/lambda-calculus/)
 
