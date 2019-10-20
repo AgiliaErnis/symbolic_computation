@@ -5,6 +5,8 @@
 
 [Git Tutorial from SW Carpentry](http://swcarpentry.github.io/git-novice/)
 
+[Git Commands cheatsheet](https://dev.to/louhayes3/git-cheat-sheet-koa)
+
 ## Lambda calculus
 [Learn Lambda calculus in Y mins](https://learnxinyminutes.com/docs/lambda-calculus/)
 
