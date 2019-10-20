@@ -34,7 +34,11 @@
 
 [Clojure Bridge](https://clojurebridge.org/community-docs/index.html) - tutorials and lecture materials about Clojure
 
-[Clojure Style guide](https://guide.clojure.style/)
+[Clojure Style guide](https://guide.clojure.style/) - basic style guide to follow
+
+[Clojure by example](https://kimh.github.io/clojure-by-example/#about) - a nice summary of Clojure
+
+[Clojure cheatsheet](https://clojure.org/api/cheatsheet) - summary of Clojure commands
 
 ## General programming
 [HackerRank](https://www.hackerrank.com/) - site full of exercises and challenges to improve your coding
