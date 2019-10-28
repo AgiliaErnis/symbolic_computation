@@ -47,6 +47,8 @@
 
 [Clojure cheatsheet](https://clojure.org/api/cheatsheet) - summary of Clojure commands
 
+[Clojure for the brave and true](https://www.braveclojure.com/organization/) - a nice tutorial/manual to Clojure
+
 ## General programming
 [HackerRank](https://www.hackerrank.com/) - site full of exercises and challenges to improve your coding
 
